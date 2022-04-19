@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramndroid
-- 👀 I’m interested in JavaScript, Java and Kotlin
+- 👀 I’m interested in JavaScript, Typescript, Java and Kotlin
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web projects
 
